@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "audiobuffer-to-wav": "^1.0.0",
+    "recharts": "^2.15.3"
+  }
+}
